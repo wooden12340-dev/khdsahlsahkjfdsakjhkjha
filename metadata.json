@@ -1,0 +1,6 @@
+{
+  "name": "자료 기반 웹사이트 빌더 & 쇼케이스 (Doc2Site Studio)",
+  "description": "문서, 사업 계획서, 강의 요약, 포트폴리오 등 어떤 자료든 즉시 인터랙티브 웹사이트로 변환하고 테마 및 섹션을 자유롭게 편집할 수 있는 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
